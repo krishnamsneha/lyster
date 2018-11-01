@@ -1,0 +1,12 @@
+.map {
+  height: 90%;
+  width: 80%;
+  border: 5px solid #c3c3cc;
+  overflow: visible;
+  border-radius: 10px;
+  margin: 5px 20px;
+}
+
+#info{
+   display: none;
+}
